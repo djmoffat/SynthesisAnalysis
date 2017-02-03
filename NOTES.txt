@@ -1,0 +1,9 @@
+Created by DM 16/2/16
+
+test file from soundsnap
+ Water drips slow 01_SFXBible_ss06959.wav.
+
+Test2 file is the rain ref one sound from my PhD research
+	I will find a reference for this sound later
+
+Based on suggestions and ideas from Richard Turner for synthesis statistics
